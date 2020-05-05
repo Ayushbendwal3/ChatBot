@@ -1,10 +1,10 @@
-**Requirements:**
+# Requirements:
 
 1) python 3.x
 
 2) pip
   
-**Follow Steps:**
+# Follow Steps:
 
 1) Clone repository.
 
