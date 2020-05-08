@@ -98,6 +98,12 @@
       "patterns": ["who made you?", "who is your developer", "about you"],
       "responses": ["I am a python based chatbot developed by Ayush bendwal"],
       "context_set": ""
+    },
+    {
+      "tag": "Anime",
+      "patterns": ["Do you watch anime?", "What's your favorite anime?", "Anime"],
+      "responses": ["Yes I do watch anime, my favorite anime is HuntexHunter YEEEEET!!!","I do watch anime, yes, Hxh is my favorite"],
+      "context_set": ""
     }
   ]
 }
